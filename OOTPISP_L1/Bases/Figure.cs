@@ -29,7 +29,6 @@ namespace OOTPISP_L1
                     X2 = fLine.SecondDot.XPos,
                     Y1 = fLine.FirstDot.YPos,
                     Y2 = fLine.SecondDot.YPos,
-                    Stroke = Brushes.Black
                 });
         }
     }
